@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPreferenceActivity</string>
+    <string name="enter_any_data_that_you_want_to_save">Enter any Data that you want to save</string>
+    <string name="data_you_want_to_save">Data you want to Save</string>
+</resources>
